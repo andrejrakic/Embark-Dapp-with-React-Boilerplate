@@ -1,0 +1,24 @@
+{
+  "name": "embark_demo",
+  "version": "4.1.0",
+  "description": "Demo DApp for Embark",
+  "homepage": "https://github.com/embark-framework/embark/tree/master/dapps/templates/demo#readme",
+  "bugs": "https://github.com/embark-framework/embark/issues",
+  "scripts": {
+    "test": "embark test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "directory": "dapps/templates/demo",
+    "type": "git",
+    "url": "https://github.com/embark-framework/embark.git"
+  },
+  "devDependencies": {
+    "bootstrap": "3.3.7",
+    "react": "16.7.0",
+    "react-bootstrap": "0.32.4",
+    "react-dom": "16.7.0"
+  }
+}
