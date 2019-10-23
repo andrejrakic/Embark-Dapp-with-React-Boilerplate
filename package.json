@@ -16,7 +16,7 @@
     "url": "https://github.com/embark-framework/embark.git"
   },
   "devDependencies": {
-    "bootstrap": "3.3.7",
+    "bootstrap": "3.4.1",
     "react": "16.7.0",
     "react-bootstrap": "0.32.4",
     "react-dom": "16.7.0"
